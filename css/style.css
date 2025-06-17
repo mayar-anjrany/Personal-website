@@ -224,8 +224,8 @@ header .container .social i {
 @media (max-width: 768px) {
     .hero .container {
         flex-direction: column-reverse;
-        padding-right: 2px;
-        padding-left: 2px;
+        padding-right: 30px;
+        padding-left: 30px;
     }
 }
 
